@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ComposeField"
 include ':app'
+include ':app:launchedeffect'
+include ':app:disposableeffect'
